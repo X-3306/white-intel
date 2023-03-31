@@ -6,5 +6,5 @@ Skrypt sprawdza rekordy DNS i pobierają informacje Whois dla domeny.
 - chmod x+ white_intel.sh
 ./white_intel.sh -h
 
-# # przykład użycia: 
+## przykład użycia: 
 ./white_intel.sh -w example.com 
