@@ -1,5 +1,5 @@
 # white-intel
-Skrypt sprawdza rekordy DNS i pobierają informacje Whois dla domeny.
+Prosty skrypt pomocny do bug bounty i innych czynności OSINT
 
 # Jak uruchomić?
 
