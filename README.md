@@ -8,4 +8,4 @@ Skrypt sprawdza rekordy DNS i pobierają informacje Whois dla domeny.
  - ./white_intel.sh -h
 
 # przykład użycia: 
-./white_intel.sh -w example.com 
+./white_intel.sh  -d -w example.com 
